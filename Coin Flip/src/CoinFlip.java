@@ -16,7 +16,7 @@ public class CoinFlip {
 		String name= userInput.nextLine();
 		System.out.println("Hi" +" " +name + "!");
 	}
-	public static void flipCoin() 
+	public static void flipCoin() //interesting - Jeffer
 	{
 		Scanner userInput = new Scanner(System.in);
 		System.out.println("How many times would you like to flip the coin?");
